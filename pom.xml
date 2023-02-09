@@ -12,6 +12,10 @@
 		<maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
 		<bootstrap.version>4.3.1</bootstrap.version>
 		<springboot.version>2.2.0.RELEASE</springboot.version>
+
+		<sonar.login>admin</sonar.login>
+		<sonar.password>root</sonar.password>
+
 	</properties>
 
 	<parent>
